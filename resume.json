@@ -1,0 +1,90 @@
+{
+  "basics": {
+    "name": "Andrey Zubkov",
+    "label": "Software Developer",
+    "picture": "",
+    "email": "oxxxymoron@gmail.com",
+    "phone": "+82(10) 3017-3141",
+    "website": "http://azubkov.com",
+    "summary": "TBD",
+    "location": {
+      "address": "Paldal-gu, Ingye-dong, Raemian APT 202-801",
+      "postalCode": "442070",
+      "city": "Suwon",
+      "countryCode": "KR",
+      "region": "Gyeonggi-do"
+    },
+    "profiles": [{
+        "network": "LinkedIn",
+        "username": "andreyzubkov",
+        "url": "https://www.linkedin.com/in/andreyzubkov"
+    }]
+  },
+  "work": [{
+      "company": "Samsung Electronics",
+      "position": "Senior Engineer",
+      "startDate": "2006-11-01",
+      "summary": "TBD",
+      "highlights": [
+        "TBD",
+        "TBD"
+      ]
+    },{
+      "company": "Schneider Electric",
+      "position": "Programmer",
+      "startDate": "2003-09-01",
+      "endDate": "2006-10-15",
+      "summary": "TBD",
+      "highlights": [
+        "TBD",
+        "TBD"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bauman Moscow State Technical University",
+      "area": "Information Technology",
+      "studyType": "Master",
+      "startDate": "1999-09-01",
+      "endDate": "2005-06-15",
+      "gpa": "4.0",
+      "courses": [
+        "TBD"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "TBD",
+      "publisher": "TBD",
+      "releaseDate": "TBD",
+      "website": "TBD",
+      "summary": "TBD"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    }
+  ],
+  "languages": [{
+      "language": "English",
+      "fluency": "Professional"
+    },{
+      "language": "Russian",
+      "fluency": "Native speaker"
+    },{
+      "language": "German",
+      "fluency": "Elementary proficiency"
+    },{
+      "language": "Korean",
+      "fluency": "Elementary proficiency"
+  }]
+}
